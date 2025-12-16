@@ -1,7 +1,7 @@
 #       < etudiant_app (Version Laravel) >
 ---
 ## Des vidéos montrons l'installation et le test sont présents dans ce repository
-> INSTALLATION_etudiant_app_laravel.webm
+> INSTALLATION_etudiant_app_laravel.webm\
 > Test_video_etudiant_app_laravel.webm
 
 ## Installation
