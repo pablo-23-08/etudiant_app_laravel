@@ -13,13 +13,13 @@
 
 >**Etapes à suivre**
 >**Etapes à suivre**
->>1-*Créer la base de données :*
-```
-Exécutez le script *database.sql* fourni pour créer les tables
-```
->>2-*clonner l'application sur github*
+>>1-*clonner l'application sur github*
 ```
 git clone https://github.com/pablo-23-08/etudiant_app_laravel.git
+```
+>>2-*Créer la base de données :*
+```
+Exécutez le script *database.sql* fourni pour créer les tables
 ```
 >>3-*aller dans le répertoire*
 ```
