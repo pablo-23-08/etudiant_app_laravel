@@ -25,7 +25,7 @@
             
             <div class="nav-actions">
                 <div class="language-switcher">
-                    <form action="{{ route('change.language', ['lang' => app()->getLocale() === 'fr' ? 'en' : 'fr']) }}" method="get" class="language-form">
+                    <form action="{{ route('change.language', ['lang' => app()->getLocale() === 'en' ? 'fr' : 'en']) }}" method="get" class="language-form">
                         <select name="lang" onchange="window.location.href='{{ url('change-language') }}/' + this.value">
                             <option value="fr" {{ app()->getLocale() == 'fr' ? 'selected' : '' }}>
                                 🇫🇷 {{ __('messages.french') }}
