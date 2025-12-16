@@ -37,15 +37,11 @@ DB_PASSWORD= <password>
 ```
 php artisan key:generate
 ```
->>7-*migrer la base de données*
-```
-php artisan migrate
-```
->>8-*démarrer le serveur Laravel pour tester*
+>>7-*démarrer le serveur Laravel pour tester*
 ```
 php artisan serve
 ```
->>9-*aller sur [http://127.0.0.1:8000] dans le navigateur*
+>>8-*aller sur [http://127.0.0.1:8000] dans le navigateur*
 
 
 ## Description
