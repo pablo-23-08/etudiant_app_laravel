@@ -12,22 +12,21 @@
 >>* Node.js et npm 
 
 >**Etapes à suivre**
->**Etapes à suivre**
 >>1-*clonner l'application sur github*
 ```
 git clone https://github.com/pablo-23-08/etudiant_app_laravel.git
 ```
->>2-*Créer la base de données :*
-```
-Exécutez le script *database.sql* fourni pour créer les tables
-```
->>3-*aller dans le répertoire*
+>>2-*aller dans le répertoire*
 ```
 cd etudiant_app_laravel
 ```
->>4-*installer les dépendances de Laravel*
+>>3-*installer les dépendances de Laravel*
 ```
 composer install
+```
+>>4-*Créer la base de données :*
+```
+Exécutez le script *database.sql* fourni pour créer les tables
 ```
 >>5-*modifier le fichier *.env*, remplacer <__user_mysql__> et <__password__> par ces vrais valeurs*
 ```
